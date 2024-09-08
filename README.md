@@ -17,7 +17,7 @@ This repository contains a collection of coding projects created during my B.Tec
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/YourUsername/CollegeProjects.git
+    git clone https://github.com/LakkshitKhare/CollegeProjects.git
     cd CollegeProjects
     ```
 
